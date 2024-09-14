@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "visualizador_imagens_wf/1.0.0": {
+        "runtime": {
+          "visualizador_imagens_wf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "visualizador_imagens_wf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
